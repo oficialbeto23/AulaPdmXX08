@@ -1,0 +1,34 @@
+{
+
+   "agenda" : [
+
+    { "dica1" : "Sensei" , "dica2" : "tem 2 olhos diferentes" , "dica3" : "superdotado de talento" , "resposta" : "kakashi"  },
+
+    { "dica1" : "calado" , "dica2" : "sucesso com as mulheres" , "dica3" : "amigo do dono do anime" , "resposta" : "sasuke"  },
+    
+    { "dica1" : "cabelo rosa" , "dica2" : "unica menina do time" , "dica3" : "boa em usar shacra" , "resposta" : "sakura"  },
+    
+      
+    { "dica1" : "gordo" , "dica2" : "amigo do shikamaru" , "dica3" : "gosta de comer" , "resposta" : "chouji"  },
+      
+    { "dica1" : "força de vontade" , "dica2" : "só usa taijutsu" , "dica3" : "lutou com o gaara" , "resposta" : "lee"  },
+      
+    { "dica1" : "inimigo naruto" , "dica2" : "depois de lutar virou amigo do naruto" , "dica3" : "usa areia" , "resposta" : "gaara"  },
+      
+    { "dica1" : "cobras sao a invocação" , "dica2" : "quer vida eterna" , "dica3" : "é muito estranho" , "resposta" : "orochimaru"  },
+      
+    
+      
+    { "dica1" : "tem os olhos brancos" , "dica2" : "é mulher" , "dica3" : "gosta do naruto" , "resposta" : "rinata"  },
+      
+    { "dica1" : "a lesma é sua invocação" , "dica2" : "é rokague" , "dica3" : "gosta de apostar" , "resposta" : "tsunade"  },
+      
+      
+
+    { "dica1" : "preguiçoso" , "dica2" : "muito inteligente" , "dica3" : "Qi Mais alto de todos" , "resposta" : "Shikamaru"  }
+
+  ]
+
+  
+
+  }
